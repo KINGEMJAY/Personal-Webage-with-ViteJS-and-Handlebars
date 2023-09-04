@@ -1,0 +1,61 @@
+{
+    "user" : {
+        "titlebootstrap":"PERSONAL WEBSITE USING BOOTSTRAP FRAMEWORK",
+        "titlematerialize":"PERSONAL WEBSITE USING MATERIALIZE FRAMEWORK",
+        "bootbrotitle":"BOOTSTRAP Framework",
+        "matbrotitle":"MATERIALIZE Framework",
+        "fullName": "Name: KING EMJAY",
+        "Sex":"Sex: Male",
+        "Age":"Age: hahaha",
+        "Nationality":"Nationality: Naija",
+        "Occupation":"Occupation: Journal reviewer",
+        "Location":"Place of study: University of Tesside",
+        "placeStudy":"UNIVERSITY OF TEESSIDE",
+        "bootBackground":"1.png",
+        "matBackground":"2.png",
+        "bootStrapMountain":"3.png",
+        "materializeMountain":"4.png",
+        "photo" : "5.png"
+    },
+    "city" : {
+        "title":"FAVORITE CITY",
+        "name" : "CITY OF GRASS",
+        "photo" :"6.png",
+        "description" : "the grass city."
+    },
+    
+    "foreignLanguage" : {
+        "language" : "ANCIENT",
+        "phrases" : [
+         {
+            "englishPhrase" : "In the journey of life, every single step counts",
+            "foreignLanguage" : "the journey of life nah one step e dey start with"
+        },
+        {
+            "englishPhrase" : "Beneath every cloud lies a silver lining that is to say everyone's opinion counts for something.",
+            "foreignLanguage" : " Dem say beneath every cloud e get silver lining"
+        },
+        {
+            "englishPhrase" : "Failing to Plan is planning to fail",
+            "foreignLanguage" : "if you no plan you go fail"
+        }]
+    },
+    "favouriteSubjects" : [
+        {
+            "name" : "STATURE",
+            "description" : "Stature ",
+            "photo" : "7.png"
+        },
+        {
+            "name" : "ART",
+            "description" : "artwork.",
+            "photo" : "8.png"
+        },
+        
+        {
+            "name" : "AKS STADIUM",
+            "description" : "stadium.",
+            "photo" : "9.png"
+        }
+    ]
+}
